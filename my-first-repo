@@ -1,0 +1,31 @@
+my-website/
+│
+├── README.md
+└── index.html
+# My Website 🌐
+
+Ini adalah project HTML sederhana.  
+Tujuannya untuk belajar dasar-dasar membuat website dengan HTML.
+
+## Isi Repo
+- `index.html` → halaman utama website sederhana
+
+## Cara Membuka
+Cukup klik dua kali `index.html` atau buka di browser favorit kamu.
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website Sederhana</title>
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; margin-top: 50px;">
+  <h1>Halo, Dunia! 🌍</h1>
+  <p>Ini adalah website sederhana pertama saya di GitHub.</p>
+  <p>Repo ini dibuat untuk latihan dan belajar GitHub.</p>
+  <hr>
+  <footer>
+    <small>© 2025 Dibuat dengan ❤️ untuk belajar</small>
+  </footer>
+</body>
+</html>
